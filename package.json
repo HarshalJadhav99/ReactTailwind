@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@headlessui/react": "^1.4.3",
+    "gh-pages": "^3.2.3"
+  },
+  "name": "reacttailwind",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarshalJadhav99/ReactJS-TailwindCSS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarshalJadhav99/ReactJS-TailwindCSS/issues"
+  },
+  "homepage": "https://github.com/HarshalJadhav99/ReactJS-TailwindCSS#readme",
+  "description": ""
+}
